@@ -18,7 +18,7 @@ I will show how to create a flutter news app with NewsApi Org, In Flutter News A
 
 ### Created & Maintained By
 
-[Suraj Abubakar](https://github.com/sadiqabubakar52) ([@surajabubakar40](https://twitter.com/surajabubakar40)) ([instagram](https://www.instagram.com/real_dulah_born?r=nametag))
+Nbg7[Suraj Abubakar](https://github.com/sadiqabubakar52) ([@surajabubakar40](https://twitter.com/surajabubakar40)) ([instagram](https://www.instagram.com/real_dulah_born?r=nametag))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
